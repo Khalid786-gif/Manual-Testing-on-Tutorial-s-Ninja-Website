@@ -2,7 +2,7 @@
 
 # Manual Testing for Tutorials Ninja Website
 
-# Project Overview:
+## Project Overview:
 
 Tutorials Ninja is an open-source e-commerce platform that empowers users to establish online stores, manage products, customers, orders, and much more. This project focuses on enhancing the user experience by implementing a real-time currency change feature, allowing customers to switch between currencies effortlessly.
 
