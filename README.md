@@ -1,4 +1,4 @@
-<div><img src="https://leveledge.in/wp-content/uploads/2023/08/testing.gif" width="90%" height="350px"></div>
+<div><img src="https://leveledge.in/wp-content/uploads/2023/08/testing.gif" width="100%" height="300px"></div>
 
 # Manual Testing for Tutorials Ninja Website
 
